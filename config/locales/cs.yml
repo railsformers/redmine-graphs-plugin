@@ -6,4 +6,5 @@ cs:
   label_graphs_issue_status_flow: Nedávno změněné stavy (během 24 hodin)
   label_graphs_assigned_to_status_flow: Nedávno změněné přidělení (během 24 hodin)
   warning_no_issues: Nejsou zde žádné úkoly.
-  
+  recent_assigned_to_changes_graph: Nedávno změněné přidělení
+  recent_status_changes_graph: Nedávno změněné stavy
